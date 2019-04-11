@@ -1,2 +1,4 @@
 # a script that prints hello
-print("hello")
+hrello_world <- function() {
+  print("hello")
+}
